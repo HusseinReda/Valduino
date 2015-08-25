@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Arduino
 ========
 
@@ -44,6 +43,3 @@ Arduino uses the [GNU avr-gcc toolchain](http://gcc.gnu.org/wiki/avr-gcc), [avrd
 
 Icon and about image designed by [ToDo](http://www.todo.to.it/)
 
-=======
-# Valduino
->>>>>>> f11a5a0616d8a82b9bd84622bc9ee3cc2cb2555d
